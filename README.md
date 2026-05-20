@@ -2,7 +2,7 @@
 
 ### Frontend Developer • Next.js Engineer • UI System Builder
 
-Building fast, scalable, and modern web experiences with clean architecture and polished UI.
+Crafting fast, scalable, and modern web experiences with clean architecture and polished, user-focused UI.
 
 <p align="left">
   <a href="https://shahria.dev" target="_blank">
