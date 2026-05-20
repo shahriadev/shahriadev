@@ -156,7 +156,7 @@ const shahria = {
 
 - 🌍 Portfolio: https://shahria.dev
 - 💼 LinkedIn: https://www.linkedin.com/in/shahriakhansejan
-- 💻 GitHub: https://github.com/shahriakhansejan
+- 💻 GitHub: https://github.com/shahriadev
 - 📧 Email: shahriakhansejan@gmail.com
 
 ---
