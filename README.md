@@ -29,8 +29,8 @@
 
 ```ts
 const shahria = {
-  role: "Front-End Developer @ Softvence Agency",
-  location: "Mohakhali, Banani, Dhaka, Bangladesh 🇧🇩",
+  role: "Front-End Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
   code: ["JavaScript", "TypeScript"],
   technologies: {
     frontend: ["React", "Next.js", "Redux Toolkit", "RTK Query"],
