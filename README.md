@@ -135,7 +135,7 @@ const shahria = {
 
 ## 🕐 Coding Activity
 
-<figure><embed src="https://wakatime.com/share/@shahriakhansejan/a755457f-8afd-442b-b9be-f40df833ef84.svg"></embed></figure>
+[![Wakatime Stats](https://wakatime.com/share/@shahriakhansejan/48cf028f-9819-4d50-9576-b09e1e40ebb4.svg)](https://wakatime.com/@shahriakhansejan)
 
 ---
 
