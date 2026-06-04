@@ -142,8 +142,8 @@ const shahria = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-stats.vercel.app/api?username=shahriadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahriadev&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://readme-stats.vercel.app/api?username=shahriakhansejan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahriakhansejan&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
