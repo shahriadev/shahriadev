@@ -146,10 +146,6 @@ const shahria = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shahriakhansejan&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-stats.vercel.app/api/top-langs/?username=shahriadev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 ---
 
 ## 🎓 Education
